@@ -31,10 +31,13 @@ show(): Prints the value of the side of the cube.
 
 <h2>In this README:</h2>
 
--Description: Explains the purpose of the repository and the program. <br>
+-
 -Installation: Provides instructions on how to compile and run the program. <br>
 -Usage: Outlines the steps to use the program. <br>
 -Class Structure: Describes the structure of the Cube class. <br>
 -Example: Includes the code snippet demonstrating the usage of the Cube class. <br>
 -License: Indicates the licensing information of the project. <br>
 -Acknowledgments: Mentions any external resources or contributors to the project.
+<ul>
+    <li>Description: Explains the purpose of the repository and the program. <br></li>
+</ul>
