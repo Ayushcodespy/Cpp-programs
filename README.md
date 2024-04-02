@@ -28,4 +28,13 @@ side: Represents the length of the side of the cube.
 Member Functions:
 
 show(): Prints the value of the side of the cube.
-Example
+
+In this README:
+
+-Description: Explains the purpose of the repository and the program.
+-Installation: Provides instructions on how to compile and run the program.
+-Usage: Outlines the steps to use the program.
+-Class Structure: Describes the structure of the Cube class.
+-Example: Includes the code snippet demonstrating the usage of the Cube class.
+-License: Indicates the licensing information of the project.
+-Acknowledgments: Mentions any external resources or contributors to the project.
