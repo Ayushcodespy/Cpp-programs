@@ -24,12 +24,12 @@ To run this program, you need a C++ compiler installed on your system. You can c
 <h3>Cube Class</h3>
 <h4>Data Members:</h4>
 
-<h4>side:</h4> Represents the length of the side of the cube.
+side: Represents the length of the side of the cube.
 Member Functions:
 
 show(): Prints the value of the side of the cube.
 
-In this README:
+<h2>In this README:</h2>
 
 -Description: Explains the purpose of the repository and the program. <br>
 -Installation: Provides instructions on how to compile and run the program. <br>
