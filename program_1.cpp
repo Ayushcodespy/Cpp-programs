@@ -23,3 +23,7 @@ int main()
     return 0;
 }
 
+
+/*OUTPUT 
+
+side=20*/
