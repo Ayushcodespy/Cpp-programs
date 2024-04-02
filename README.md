@@ -1,5 +1,7 @@
 Cube Class
-Description
+
+Description:
+
 This repository contains a C++ program that demonstrates the usage of a Cube class. The Cube class encapsulates the properties of a cube, including its side length. The program utilizes pointer to member syntax to access and modify the side length of the cube object.
 
 Installation
