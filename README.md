@@ -1,13 +1,13 @@
-Cube Class
+<h2>Cube Class</h2>
 
-Description:
+<h3>Description:</h3>
 
 This repository contains a C++ program that demonstrates the usage of a Cube class. The Cube class encapsulates the properties of a cube, including its side length. The program utilizes pointer to member syntax to access and modify the side length of the cube object.
 
-Installation
+<h4>Installation</h4>
 To run this program, you need a C++ compiler installed on your system. You can compile and execute the program using any C++ compiler that supports C++11 or later standards.
 
-Usage
+<h4>Usage</h4>
 1. Clone this repository to your local machine:
     git clone https://github.com/Ayushcodespy/Cpp-programs
 
@@ -20,11 +20,11 @@ Usage
 4. Run the compiled program:
     ./cube
    
-Class Structure
-Cube Class
-Data Members:
+<h2>Class Structure</h2>
+<h3>Cube Class</h3>
+<h4>Data Members:</h4>
 
-side: Represents the length of the side of the cube.
+<h4>side:</h4> Represents the length of the side of the cube.
 Member Functions:
 
 show(): Prints the value of the side of the cube.
