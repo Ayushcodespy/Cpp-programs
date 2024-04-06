@@ -6,7 +6,6 @@ using namespace std;
 class Table {
     public:
 
-    // Function to generate and display the table
     void generateTable(int number) {
         cout << "Table of " << number << ":\n";
         for (int i = 1; i <= 10; ++i) {

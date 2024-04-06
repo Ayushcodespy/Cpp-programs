@@ -27,3 +27,8 @@ int main()
     temp();
     return 0;
 }
+
+/* Output:
+        Inside the show function
+        Pointer variable : 0xf77fb0
+*/
