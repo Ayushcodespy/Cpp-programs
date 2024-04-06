@@ -1,3 +1,8 @@
+/* Write a C++ program to calculate the area of the rectangle using class 'Rectangle' which
+   have three member functions where seteLngth() and setWidth are used to set the lengthg 
+   and width of the rectangle and calculateArea() is used to calculate and print the area
+*/
+
 #include <iostream>
 using namespace std;
 
@@ -24,12 +29,19 @@ public:
 };
 
 int main() {
-    
+
+    double l, b;
+
     Rectangle myRectangle;
 
+    cout<<"Enter length of the rectangle :";
+    cin>>l;
     // Set length and width
-    myRectangle.setLength(5.0);
-    myRectangle.setWidth(3.0);
+    myRectangle.setLength(l);
+
+    cout<<"Enter width of the rectangle :";
+    cin>>b;
+    myRectangle.setWidth(b);
 
     // Calculate and print the area
     cout << "Area of the rectangle: " << myRectangle.calculateArea() << endl;
